@@ -1,0 +1,6 @@
+numpy==1.26.3
+pillow==10.2.0
+python-magic==0.4.27
+lxml==5.2.1
+scipy==1.13.0
+scikit-image==0.22.0

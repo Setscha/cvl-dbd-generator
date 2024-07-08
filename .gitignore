@@ -1,0 +1,10 @@
+# JetBrains folder
+.idea/
+
+__pycache__/
+
+# Data folder
+data/*
+!data/in
+data/in/*
+!data/in/.gitkeep
